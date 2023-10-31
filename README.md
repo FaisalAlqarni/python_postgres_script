@@ -1,5 +1,5 @@
-# Python Postgres Assessment for SADAIA
-This is the solution of SADAIA assessment where I was required to write a Python program that works with a PostgreSQL database. The program needs to perform different operations like adding, updating, deleting, and retrieving data from the database.
+# Python Postgres Assessment
+This is the solution of an assessment where I was required to write a Python program that works with a PostgreSQL database. The program needs to perform different operations like adding, updating, deleting, and retrieving data from the database.
 
 
 ## Tech Used
