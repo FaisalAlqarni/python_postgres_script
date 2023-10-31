@@ -17,6 +17,9 @@ This is the solution of SADAIA assessment where I was required to write a Python
 #### Python 3.11.0
 Preferably install Python 3.11.0
 
+#### psql (PostgreSQL) 16.0
+Preferably install psql (PostgreSQL) 16.0
+
 #### (OPTIONAL) Set up a Virtual Environment
 I am running the script in a Virtual Environment to have a clean and isolated environment.
 You can set up a virtual environment by running the following commands in your terminal (in the project path):
